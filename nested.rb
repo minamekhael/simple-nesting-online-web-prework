@@ -9,6 +9,7 @@ def hopper
         :dennis_ritchie => {known_for: "Unix", languages: ["C"]
         }
      }
+     puts :grace_hopper
 end
 
 def alan_kay_is_known_for
